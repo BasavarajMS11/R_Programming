@@ -1,3 +1,3 @@
 # R
 ---
-Programming in R for statistical methods for data distribution in CSV format and analysis of the same.
+Programming in R for statistical analysis methods for data distribution in CSV format and analysis of the same.
